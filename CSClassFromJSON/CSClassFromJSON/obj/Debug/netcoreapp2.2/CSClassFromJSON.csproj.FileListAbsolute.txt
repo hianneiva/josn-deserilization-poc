@@ -1,0 +1,11 @@
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\bin\Debug\netcoreapp2.2\CSClassFromJSON.deps.json
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\bin\Debug\netcoreapp2.2\CSClassFromJSON.runtimeconfig.json
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\bin\Debug\netcoreapp2.2\CSClassFromJSON.runtimeconfig.dev.json
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\bin\Debug\netcoreapp2.2\CSClassFromJSON.dll
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\obj\Debug\netcoreapp2.2\CSClassFromJSON.csprojAssemblyReference.cache
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\obj\Debug\netcoreapp2.2\CSClassFromJSON.csproj.CoreCompileInputs.cache
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\obj\Debug\netcoreapp2.2\CSClassFromJSON.AssemblyInfoInputs.cache
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\obj\Debug\netcoreapp2.2\CSClassFromJSON.AssemblyInfo.cs
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\bin\Debug\netcoreapp2.2\CSClassFromJSON.pdb
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\obj\Debug\netcoreapp2.2\CSClassFromJSON.dll
+D:\PoCs\json\CSClassFromJSON\CSClassFromJSON\CSClassFromJSON\obj\Debug\netcoreapp2.2\CSClassFromJSON.pdb

@@ -1,0 +1,273 @@
+{
+  "QueryFreightResponse": {
+    "errorReturns": [
+      {
+        "field": "",
+        "id": "e",
+        "logMsgNo": 339,
+        "logNo": "3j<",
+        "message": "",
+        "messageV1": "Ks",
+        "messageV2": "",
+        "messageV3": "yR",
+        "messageV4": "",
+        "number": 600,
+        "parameter": "",
+        "row": 208,
+        "system": "",
+        "type": "l"
+      }
+    ]
+  },
+  "exOutputTab": [
+    {
+      "carrCode": "+k",
+      "driverId": "U",
+      "eDocsCTE": "",
+      "globalStat": "s",
+      "oneCTE": 247,
+      "shtyp": "",
+      "stage": [
+        {
+          "cteReady": "nq",
+          "delSyst": "",
+          "destCity": "",
+          "destCountry": "",
+          "destCustomer": "",
+          "destNode": "_",
+          "destNodeDesc": "x@",
+          "destPlantCode": "",
+          "destPlantDesc": "",
+          "destPostCode": "~ ~_Y",
+          "destShipPnt": "",
+          "destShipPntDesc": "",
+          "destTariff": "peG",
+          "destVendor": "",
+          "distance": 736.75,
+          "equipNumb": -34,
+          "equipType": "",
+          "freeFreight": "@",
+          "grossValue": 230.25,
+          "grouping": "",
+          "incoterms": "#{",
+          "legInd": "|",
+          "legIndDesc": "",
+          "loadFm": "",
+          "loadType": "@",
+          "log": [
+            {
+              "details": [
+                {
+                  "message": ""
+                }
+              ],
+              "executed": "",
+              "executionDate": "U*^d",
+              "executionTime": "",
+              "message": "",
+              "messageId": "",
+              "process": "w",
+              "sequence": 567,
+              "success": ""
+            }
+          ],
+          "minFreight": ")",
+          "nfe": [
+            {
+              "atwrt": "x",
+              "atwrtIs": "",
+              "brgew": 152.75,
+              "city1": "\\",
+              "city1Is": "_",
+              "city2": "&7",
+              "city2Is": "",
+              "cnpjTake": "qn",
+              "costRel": "pt",
+              "country": "",
+              "countryIs": "",
+              "countryName": "",
+              "countryNameIs": "_",
+              "docDate": "",
+              "houseNum1": "",
+              "houseNum1Is": "V",
+              "inbDocNum": "}",
+              "inco1": "",
+              "menge": 244,
+              "message1": ";",
+              "message2": [
+                {
+                  "message": "$"
+                }
+              ],
+              "name1": "]?",
+              "name1Is": "6e",
+              "nFeNum": "",
+              "nfeTotal": 373,
+              "pod": [
+                {
+                  "defPodDate": "",
+                  "defPodDoc": "Y",
+                  "defPodDocType": "w=",
+                  "defPodTime": "",
+                  "tempPodDate": "",
+                  "tempPodDoc": "",
+                  "tempPodDocType": "r}1~$",
+                  "tempPodTime": ""
+                }
+              ],
+              "postCode1": "",
+              "postCode1Is": "",
+              "region": "",
+              "regionIs": "S",
+              "series": "",
+              "shpunt": "",
+              "stcd1": "",
+              "stcd1Is": "",
+              "stcd2": "!r",
+              "stcd2Is": "",
+              "stcd3": "",
+              "stcd3Is": "Q",
+              "street": "Y",
+              "streetIs": "K",
+              "strSuppl1": "A^x-",
+              "strSuppl1Is": "",
+              "telNumber": "L",
+              "telNumberIs": "",
+              "vbeln": "8%X`0",
+              "zdestCityCode": "",
+              "zDestCityCodeIs": "34!{^",
+              "zField": " &}(}<"
+            }
+          ],
+          "origCity": "",
+          "origCountry": "",
+          "origCustomer": "cBW$",
+          "originTariff": "",
+          "origNode": "",
+          "origNodeDesc": "",
+          "origPlantCode": "ZmEDBv",
+          "origPlantDesc": "",
+          "origPostCode": "",
+          "origShipPnt": "/T3",
+          "origShipPntDesc": "1",
+          "origVendor": "",
+          "palletCount": 963,
+          "partner": [
+            {
+              "atwrt": ":",
+              "city1": "j42",
+              "city2": "",
+              "country": "",
+              "countryName": "",
+              "houseNum1": "f=FL/.K",
+              "name1": "V",
+              "parvw": "@y\\kX",
+              "postCode1": "",
+              "region": "nG",
+              "stcd1": "",
+              "stcd2": "",
+              "stcd3": "&6",
+              "street": "e",
+              "strSuppl1": "Fbt",
+              "telNumber": "t1",
+              "zdestCityCode": ""
+            }
+          ],
+          "plant": "",
+          "pricinCalcDat": "",
+          "pricing": {
+            "condition": [
+              {
+                "stunr": 705,
+                "kschl": "",
+                "vtext": "",
+                "kawrt": 351.25,
+                "kmein": "",
+                "kbetr": 863,
+                "kwert": 262.5,
+                "waers": "E)",
+                "kinak": "tf"
+              }
+            ]
+          },
+          "ses": [
+            {
+              "lblni": ".3",
+              "ebeln": "",
+              "bsart": "",
+              "erdat": "",
+              "aedat": "",
+              "mwskz": "'",
+              "kwertIcmsPre": 884.25,
+              "kwertIcmsSt": 914.25,
+              "kwertIcmsVal": 259.5,
+              "kawrtIcms": 512,
+              "kbetrIcmsAli": 47,
+              "kwertPisVal": 213.25,
+              "kawrtPis": 51.75,
+              "kbetrPsAli": 673,
+              "kwertCofinsVal": 756.5,
+              "kawrtCofins": 388.25,
+              "kbetrCofinsAli": 266.75,
+              "kwertIssVal": 451.75,
+              "kawrtIss": -31.5,
+              "kbetrIssAli": 728,
+              "zsimpleop": "",
+              "zbasered": 830.5,
+              "kbetrIcmsExe": "",
+              "waers": "n",
+              "ktext1": "",
+              "fknum": "2M",
+              "knttp": "",
+              "kostl": "Y",
+              "werks": "",
+              "sakto": "",
+              "aufnr": "",
+              "zcust": "",
+              "grossValue": 537.5,
+              "netValue": 291.75,
+              "calcStat": "",
+              "acntDetStat": "0?",
+              "transferStat": "S",
+              "createDate": ""
+            }
+          ],
+          "shipProc": "",
+          "stcd1": "",
+          "toll": -74.5,
+          "tsnum": 917,
+          "vbeln": "",
+          "vp": [
+            {
+              "truckPlate": "cW^",
+              "trailerPlate": "",
+              "bTrainPlate": "",
+              "truckAxles": 858,
+              "trailerAxles": 738,
+              "bTrainAxles": 71,
+              "truckUFId": "/X`",
+              "trailerUFId": "",
+              "bTrainufId": "v5V",
+              "totalAxles": 237,
+              "expectedAxles": -11,
+              "tagStatus": 74,
+              "expTollValue": "\"=x=#.y%",
+              "realTollValue": 454.5,
+              "vpStatus": 957,
+              "receiptNumber": "",
+              "tollVendor": "''",
+              "occurrenceNum": "AE"
+            }
+          ]
+        }
+      ],
+      "tknum": "#`FC",
+      "tpp": "a"
+    }
+  ],
+  "shipment": [
+    {
+      "tknum": ""
+    }
+  ]
+}
